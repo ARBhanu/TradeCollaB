@@ -9,11 +9,11 @@ Many traders and investors lost their money in real time trading or investing. S
 
 ## Features
 
-- User Authentication:
+#### User Authentication:
  - Description: Users can sign up, log in securely, and manage their profiles.
  - Implementation: Passport.js is used for authentication middleware, ensuring secure user sessions.
 
-- RealTime Chat:
+#### RealTime Chat:
  - Description: Realtime communication is enabled using Socket.IO, allowing instant message delivery. Chat feature is group and single both.
  - Implementation: Socket.IO establishes a WebSocket connection for bidirectional communication between the server and clients.
 
