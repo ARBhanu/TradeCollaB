@@ -1,5 +1,8 @@
 # TradeCollab
 
+## Project Idea
+Many traders and investors lost their money in real time trading or investing. So, for minimize loss and maximize profit i thought this idea that to connect all traders using chat app and educate about real time trading data.
+
 ## Project Overview
 
 "TradeCollab", a visionary and innovative online platform designed to revolutionize the way traders and investors interact, learn, and excel. TradeCollab emerges as more than just a platform; This app allows to chat in real time with traders and investors as single or group chat.
