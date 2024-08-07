@@ -18,8 +18,8 @@ Many traders and investors lost their money in real time trading or investing. S
  - Implementation: Socket.IO establishes a WebSocket connection for bidirectional communication between the server and clients.
 
 ##### User Profile:
- -- Description: Users can create and update their profiles with profile pictures and display names.
- -- Implementation: Profile information is stored in MongoDB, and the frontend fetches and updates user details through API calls.
+ - Description: Users can create and update their profiles with profile pictures and display names.
+ - Implementation: Profile information is stored in MongoDB, and the frontend fetches and updates user details through API calls.
 
 ##### Notifications:
  - Description: Users receive realtime notifications for new messages and group activities.
@@ -49,7 +49,7 @@ Many traders and investors lost their money in real time trading or investing. S
 To run this application, follow these steps :
 - Setup the file and folder
 - Open the command prompt
-- ```bash
+```bash
   cd CHAT_APP
 ```
 - clone the repository
