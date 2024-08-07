@@ -1,8 +1,8 @@
-# Real-Time Trading Data
+# TradeCollab
 
 ## Project Overview
 
-This Project connects and interacts between traders and investors. 
+"TradeCollab", a visionary and innovative online platform designed to revolutionize the way traders and investors interact, learn, and excel. TradeCollab emerges as more than just a platform; This app allows to chat in real time with traders and investors as single or group chat.
 
 ## Features
 
@@ -11,7 +11,7 @@ This Project connects and interacts between traders and investors.
  Implementation: Passport.js is used for authentication middleware, ensuring secure user sessions.
 
 - RealTime Chat:
- Description: Realtime communication is enabled using Socket.IO, allowing instant message delivery.
+ Description: Realtime communication is enabled using Socket.IO, allowing instant message delivery. Chat feature is group and single both.
  Implementation: Socket.IO establishes a WebSocket connection for bidirectional communication between the server and clients.
 
 - User Profile:
@@ -26,13 +26,13 @@ This Project connects and interacts between traders and investors.
  Description: Chat history is stored and retrieved for a seamless user experience.
  Implementation: MongoDB stores messages, allowing users to fetch past messages when rejoining a chat.
 
- Responsive Design:
+- Responsive Design:
  Description: The application is designed to be responsive and userfriendly across various devices.
  Implementation: The React.js frontend is styled using responsive design principles and frameworks like Tailwind.
 
 
 ## Technologies Used
-
+- Socket Io
 - **UI :** Chakra UI
 - **Frontend :** HTML, CSS, JavaScript, React.js
 - **Backend :** Node.js, Express.js
