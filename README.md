@@ -33,9 +33,12 @@ Many traders and investors lost their money in real time trading or investing. S
  Description: The application is designed to be responsive and userfriendly across various devices.
  Implementation: The React.js frontend is styled using responsive design principles and frameworks like Tailwind.
 
+- Education:
+ Description: All famous trading app is shown real time data with their all features like current price, loss or gain etc..
+ Implementation: Fetches api for real time data and fronted used for a better ui
 
 ## Technologies Used
-- Socket Io
+- **Socket Io**
 - **UI :** Chakra UI
 - **Frontend :** HTML, CSS, JavaScript, React.js
 - **Backend :** Node.js, Express.js
@@ -45,11 +48,11 @@ Many traders and investors lost their money in real time trading or investing. S
 
 To run this application, follow these steps :
 - Setup the file and folder
-```bash
+- Open the command prompt
+- ```bash
   cd CHAT_APP
 ```
-- Open the command prompt
-- clone the repository using
+- clone the repository
 ```bash
   git clone https://github.com/ARBhanu/TradeCollaB.git
 ```
