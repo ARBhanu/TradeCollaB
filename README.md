@@ -10,32 +10,32 @@ Many traders and investors lost their money in real time trading or investing. S
 ## Features
 
 - User Authentication:
- Description: Users can sign up, log in securely, and manage their profiles.
- Implementation: Passport.js is used for authentication middleware, ensuring secure user sessions.
+ - Description: Users can sign up, log in securely, and manage their profiles.
+ - Implementation: Passport.js is used for authentication middleware, ensuring secure user sessions.
 
 - RealTime Chat:
- Description: Realtime communication is enabled using Socket.IO, allowing instant message delivery. Chat feature is group and single both.
- Implementation: Socket.IO establishes a WebSocket connection for bidirectional communication between the server and clients.
+ - Description: Realtime communication is enabled using Socket.IO, allowing instant message delivery. Chat feature is group and single both.
+ - Implementation: Socket.IO establishes a WebSocket connection for bidirectional communication between the server and clients.
 
 - User Profile:
- Description: Users can create and update their profiles with profile pictures and display names.
- Implementation: Profile information is stored in MongoDB, and the frontend fetches and updates user details through API calls.
+ - Description: Users can create and update their profiles with profile pictures and display names.
+ - Implementation: Profile information is stored in MongoDB, and the frontend fetches and updates user details through API calls.
 
 - Notifications:
- Description: Users receive realtime notifications for new messages and group activities.
- Implementation: Socket.IO broadcasts notifications to relevant users upon message receipt or group events.
+ - Description: Users receive realtime notifications for new messages and group activities.
+ - Implementation: Socket.IO broadcasts notifications to relevant users upon message receipt or group events.
 
 - Message History:
- Description: Chat history is stored and retrieved for a seamless user experience.
- Implementation: MongoDB stores messages, allowing users to fetch past messages when rejoining a chat.
+ - Description: Chat history is stored and retrieved for a seamless user experience.
+ - Implementation: MongoDB stores messages, allowing users to fetch past messages when rejoining a chat.
 
 - Responsive Design:
- Description: The application is designed to be responsive and userfriendly across various devices.
- Implementation: The React.js frontend is styled using responsive design principles and frameworks like Tailwind.
+ - Description: The application is designed to be responsive and userfriendly across various devices.
+ - Implementation: The React.js frontend is styled using responsive design principles and frameworks like Tailwind.
 
 - Education:
- Description: All famous trading app is shown real time data with their all features like current price, loss or gain etc..
- Implementation: Fetches api for real time data and fronted used for a better ui
+ - Description: All famous trading app is shown real time data with their all features like current price, loss or gain etc..
+ - Implementation: Fetches api for real time data and fronted used for a better ui
 
 ## Technologies Used
 - **Socket Io**
